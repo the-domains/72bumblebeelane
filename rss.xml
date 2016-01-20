@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[72BumblebeeLane]]></title>
         <description><![CDATA[72BumblebeeLane]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/72bumblebeelane/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 17:33:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 17:33:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/72bumblebeelane/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mohawk makes sure everything is up to code.]]></title>
+            <description><![CDATA[<article><h1>Mohawk makes sure everything is up to code.</h1><p>Website design progress checker.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f34abcfe216eddd5d2c720fede8df5f2233ccff.jpg"></article>]]></description>
+            <link>https://thegrid.ai/72bumblebeelane/mohawk-makes-sure-everything-is-up-to-code/index.html</link>
+            <guid isPermaLink="false">43cca09b-7925-4789-8d98-99baa51626a3</guid>
+            <pubDate>Wed, 20 Jan 2016 17:33:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Off the press and ready for action.]]></title>
             <description><![CDATA[<article><h1>Off the press and ready for action.</h1><p>Greeting/Note cards back from the printer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7eebba6b5b49af564aa646d7bda2d65a24249f94.jpg"></article>]]></description>
-            <link>undefinedoff-the-press-and-ready-for-action/index.html</link>
+            <link>https://thegrid.ai/72bumblebeelane/off-the-press-and-ready-for-action/index.html</link>
             <guid isPermaLink="false">8ea1bc34-8665-4f0e-b65f-112077f9e272</guid>
             <pubDate>Wed, 20 Jan 2016 17:33:14 GMT</pubDate>
         </item>
